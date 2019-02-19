@@ -1,2 +1,2 @@
 # ColectDataBitmexBot
-run main.py
+run python3 main.py
